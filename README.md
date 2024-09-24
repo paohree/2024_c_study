@@ -1,1 +1,1 @@
-나는 C++ 마스터가 될 것이다
+basic, CRUD, project + beakjoon
